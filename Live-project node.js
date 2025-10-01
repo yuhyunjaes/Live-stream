@@ -233,4 +233,5 @@ MySQL DB, 테이블 생성
 
 EJS와 JS로 프론트엔드 구성, fetch를 통한 AJAX 처리
 
+
 서버 실행 및 테스트
