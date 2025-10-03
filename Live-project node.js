@@ -75,6 +75,7 @@ MySQL 설치
 데이터베이스 및 테이블 생성
 
 CREATE DATABASE live_stream;
+
 USE live_stream;
 
 CREATE TABLE users (
@@ -235,3 +236,4 @@ EJS와 JS로 프론트엔드 구성, fetch를 통한 AJAX 처리
 
 
 서버 실행 및 테스트
+
